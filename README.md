@@ -1,2 +1,2 @@
 # couserac
-Repo for coursera courese assignments
+Repo for coursera courses assignments
